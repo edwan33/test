@@ -1,0 +1,2 @@
+This is a test only to see how git works.
+git is good for developer of softwares.
